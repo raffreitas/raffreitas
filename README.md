@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi, I'm Rafael Freitas 👋
+
+I'm a Web Developer. And I'm studying ot [Rocketseat](https://rocketseat.com.br/)
+
+#### Current Stack
+
+- Main Language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`
+- Layout Design: `Figma`
+- Version Code Control: `Git & Github`
+- Tools: `VS Code`
+
+#### Contact
+- Email: rafaarantes@live.com
+- [Linkedin](https://www.linkedin.com/in/raffreitas/)
 
 <!--
 **raffreitas/raffreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
