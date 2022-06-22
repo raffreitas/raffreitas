@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael Freitas 👋
 
-I'm a Web Developer. And I'm studying ot [Rocketseat](https://rocketseat.com.br/)
+I'm a Web Developer. And I'm studying at [Rocketseat](https://rocketseat.com.br/)
 
 #### Current Stack
 
