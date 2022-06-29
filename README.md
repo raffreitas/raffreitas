@@ -1,13 +1,12 @@
 ### Hi, I'm Rafael Freitas 👋
 
-I'm a Web Developer. And I'm studying at [Rocketseat](https://rocketseat.com.br/)
+I'm a Web Developer.
 
 #### Current Stack
 
 - Main Language: `Javascript`
 - Backend: `Nodejs`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`
-- Layout Design: `Figma`
 - Version Code Control: `Git & Github`
 - Tools: `VS Code`
 
