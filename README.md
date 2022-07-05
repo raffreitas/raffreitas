@@ -14,6 +14,12 @@ I'm a Web Developer.
 - Email: rafaarantes@live.com
 - [Linkedin](https://www.linkedin.com/in/raffreitas/)
 
+<div align="center">
+  <a href="https://github.com/raffreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffreitas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 **raffreitas/raffreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
