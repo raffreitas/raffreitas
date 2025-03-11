@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm a Software Developer from Brazil.<br><br>- 🔭 I’m working as Full-Stack Developer at Sicoob</p>
+<p align="left">
+  I'm a Software Developer from Brazil.
+</p>
 
 ###
 
